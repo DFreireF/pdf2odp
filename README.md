@@ -1,6 +1,7 @@
 # Multiple figures in .PDF to LibreOffice Impress (.odp)
 
 This script takes an arbitrary number of PDF figures and creates a LibreOffice Impress presentation (.odp) file. It then inserts the figures into the slides in a grid format, with no overlapping.
+The motivation of it is having lots of images generated from analysis and the necessity to displaying them in slides.
 
 ## Requirements
 - Python 3.x
